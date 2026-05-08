@@ -1,0 +1,28 @@
+baseURL = 'https://isaaceverest.com/'
+languageCode = 'en-us'
+title = 'isaac everest'
+theme = 'gallery'
+
+[author]
+  name = "isaac everest"
+  email = "your@email.com"
+
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+
+  [params]
+  google_fonts_url = "https://fonts.googleapis.com/css2?family=Imbue:opsz,wght@10..100,100..900&display=swap"
+  heading = "Imbue"
+  base = "'Source Sans 3', sans-serif"
+
+  [params.socialIcons]
+    instagram = "https://www.instagram.com/ex.liontamer"
+
+
